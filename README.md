@@ -3,6 +3,7 @@
 ![vis](images/logo.png)
 
 > vis is a high-performance terminal-based inventory management system developed as a *Systems Programming Project* using the C11 standard. Designed specifically for university laboratory environments, it streamlines the tracking, lending, and maintenance of sensitive hardware such as oscilloscopes, multimeters, microcontrollers, etc.
+>
 > **This project served as the final summative evaluation for Programação Estruturada at the Federal University of Piauí (UFPI), where it was defended through a comprehensive code review focusing on memory safety, logic flow, and C11 implementation standards.**
 
 `vis` é um sistema que facilita o gerenciamento de equipamentos como osciloscópios, fontes,
