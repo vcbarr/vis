@@ -162,11 +162,9 @@ Exemplos:
 
 ## Módulos
 
-+-------------+------------------------------------------------------------------------------------+
-| Módulo      |                                                                                    |
-+-------------+------------------------------------------------------------------------------------+
+| Módulo      | Descrição                                                                          |
+| ---         | ---                                                                                |
 | `array`     | Implementa um array dinâmico genérico (`void **data`).                             |
 | `cursor`    | Gerencia a posição de um cursor dentro de uma sequência de itens.                  |
 | `inventory` | Gerencia equipamentos com o auxílio de outros módulos.                             |
 | `runtime`   | Gerencia o estado geral da aplicação, orquestrando as interações entre os módulos. | 
-+-------------+------------------------------------------------------------------------------------+
