@@ -1,0 +1,7 @@
+id	name	available	borrowed	in_maintenance
+0001	Osciloscópio	6	4	0
+0002	Microscópio	0	0	40
+0003	Multímetro	7	36	0
+0004	Gravador de EEPROM	6	4	0
+0005	Notebook de Desenvolvimento	3	10	5
+0006	Mesa Digitalizadora	3	5	2
